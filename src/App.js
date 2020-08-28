@@ -1,10 +1,10 @@
 import React from 'react'
-import Barang from './latihan2/Barang'
+import Home from './latihan1/Home'
 
 function App() {
     return (
         <>
-            <Barang />
+            <Home />
         </>
     )
 }
